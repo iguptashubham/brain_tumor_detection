@@ -1,0 +1,11 @@
+keras
+tensorflow
+mlflow
+opencv-python
+fastapi
+streamlit
+matplotlib
+numpy
+pandas
+seaborn
+imutils
